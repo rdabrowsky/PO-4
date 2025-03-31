@@ -14,7 +14,5 @@ public class PersonalData {
         person2.age = 12;
 
         person2.ShowData();
-
-        System.out.println("----------------------------------------");
     }
 }
